@@ -1,2 +1,2 @@
-# freshgrlc-explorer-builds
-Build output repository for freshgrlc-explorer CI
+# freshgrlc-explorer-staging
+Repo where the current master of the freshgrlc-explorer repo is being served.
